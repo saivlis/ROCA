@@ -15,15 +15,25 @@ used if you happen to have made up your mind to follow ROCA
 recommendations, or want to assess the quality of tool support. Please
 help us expand this list!
 
-### JavaScript
+### Server-side Frameworks and Libraries
+
+An overview about REST frameworks can be found [here]{https://code.google.com/p/implementing-rest/wiki/ByLanguage}
+
+#### JavaScript
 
 * [Express](http://expressjs.com)
 
-### Python
+#### Python
 
 * [Flask](http://flask.pocoo.org)
 * [Django](https://www.djangoproject.com)
 
-### Java
+#### Java
 
-### .Net/C#
+#### .Net/C#
+
+### Client-side Javascript Libraries
+
+### CSS-Frameworks
+
+### Validation-Frameworks (supporting DRY)
